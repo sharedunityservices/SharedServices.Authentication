@@ -1,2 +1,2 @@
-# SharedServices.Template
-A template repository for shared services
+# SharedServices.Authentication
+Authentication service for Shared Services

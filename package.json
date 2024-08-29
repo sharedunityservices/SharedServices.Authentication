@@ -1,8 +1,8 @@
 {
-  "name": "com.sharedunityservices.template",
-  "displayName": "SharedServices.Template",
+  "name": "com.sharedunityservices.authentication",
+  "displayName": "SharedServices.Authentication",
   "version": "1.0.0",
-  "description": "<b>Dependencies:</b> https://github.com/sharedunityservices/SharedServices..Core.git\n\n<b>SharedServices.Template</b> is a template package for SharedServices. It is a starting point for creating new packages.",
+  "description": "<b>Dependencies:</b> https://github.com/sharedunityservices/SharedServices..Core.git\n\n<b>SharedServices.Authentication</b> is a package that provides authentication services for Unity applications.",
   "unity": "2020.1",
   "author": {
     "name": "ETdoFresh",
