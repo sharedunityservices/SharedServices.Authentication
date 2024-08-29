@@ -1,7 +1,7 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 using SharedServices.ObjectStorage.V1;
 using SharedServices.V1;
-using Unity.Plastic.Newtonsoft.Json.Serialization;
 
 namespace SharedServices.Authentication.V1
 {
