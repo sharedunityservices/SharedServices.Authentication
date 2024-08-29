@@ -4,6 +4,7 @@ using SharedServices.ObjectStorage.V1;
 
 namespace SharedServices.Authentication.V1
 {
+    [UnityEngine.Scripting.Preserve]
     public class TestUserAuthenticationService : IAuthenticationService
     {
         public bool IsAuthenticated { get; private set; }
